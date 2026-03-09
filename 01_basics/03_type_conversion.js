@@ -1,13 +1,13 @@
-let score ="33"
+"use strict";
 
-console.log(typeof score);
-console.log(typeof (score));
-
-let valueInNumber = Number(score);
-console.log(typeof valueInNumber)
+// alert("hello") we are using nodejs not browser 
 
 
-let isloggedIn = 1;
+console.log(3+3) ; console.log("hitesh chaudhary")
 
-let booleanIslogedIn = Boolean(isloggedIn);
-console.log(booleanIslogedIn);
+let name= "hitesh"
+let age = 18
+let isLoggedIn = false ;
+
+
+console.log(typeof undifined)
